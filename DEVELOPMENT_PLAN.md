@@ -269,7 +269,7 @@ docker-compose up --build
 ### 2. Flutter 앱 실행
 ```bash
 cd frontend
-flutter run
+flutter run OR flutter build web 빌드 후 새로고침
 ```
 
 ---
